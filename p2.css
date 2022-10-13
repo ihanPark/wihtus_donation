@@ -1,0 +1,7 @@
+body{
+    /* background-repeat : 반복조절 */
+    background-image: url('https://ifh.cc/g/Pfpd9J.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  /*   background-position: top; */
+  }
